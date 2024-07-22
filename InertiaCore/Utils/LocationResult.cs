@@ -15,9 +15,11 @@ public class LocationResult : IActionResult
         if (context.IsInertiaRequest())
         {
             context.HttpContext.Response.Headers.Add("X-Inertia-Location", _url);
-            context.HttpContext.Response.StatusCode = (int)HttpStatusCode.Conflict;
+            await new ConflictResult().ExecuteResultAsync(context);
         }
-
-        await new RedirectResult(_url).ExecuteResultAsync(context);
+        else
+        {
+            await new RedirectResult(_url).ExecuteResultAsync(context);
+        }
     }
 }
