@@ -1,13 +1,13 @@
-using InertiaCore;
-using InertiaCore.Extensions;
-using InertiaCore.Ssr;
-using InertiaCore.Utils;
+using InertiaAspNetCore;
+using InertiaAspNetCore.Extensions;
+using InertiaAspNetCore.Ssr;
+using InertiaAspNetCore.Utils;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 
-namespace InertiaCoreTests;
+namespace InertiaAspNetCore.Tests;
 
 public partial class Tests
 {

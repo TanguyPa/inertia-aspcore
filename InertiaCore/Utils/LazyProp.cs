@@ -1,4 +1,4 @@
-namespace InertiaCore.Utils;
+namespace InertiaAspNetCore.Utils;
 
 public class LazyProp
 {

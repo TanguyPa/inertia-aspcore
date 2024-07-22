@@ -1,7 +1,7 @@
-using InertiaCore;
-using InertiaCore.Models;
-using InertiaCore.Ssr;
-using InertiaCore.Utils;
+using InertiaAspNetCore;
+using InertiaAspNetCore.Models;
+using InertiaAspNetCore.Ssr;
+using InertiaAspNetCore.Utils;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Http.Features;
 using Microsoft.AspNetCore.Mvc;
@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Routing;
 using Microsoft.Extensions.Options;
 using Moq;
 
-namespace InertiaCoreTests;
+namespace InertiaAspNetCore.Tests;
 
 public partial class Tests
 {

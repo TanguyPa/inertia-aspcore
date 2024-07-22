@@ -1,4 +1,4 @@
-namespace InertiaCoreTests;
+namespace InertiaAspNetCore.Tests;
 
 public partial class Tests
 {

@@ -1,10 +1,10 @@
 ﻿using System.Runtime.CompilerServices;
-using InertiaCore.Utils;
+using InertiaAspNetCore.Utils;
 using Microsoft.AspNetCore.Html;
 
-[assembly: InternalsVisibleTo("InertiaCoreTests")]
+[assembly: InternalsVisibleTo("InertiaAspNetCore.Tests")]
 
-namespace InertiaCore;
+namespace InertiaAspNetCore;
 
 public static class Inertia
 {

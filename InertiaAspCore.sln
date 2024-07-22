@@ -5,7 +5,7 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InertiaAspNetCore", "InertiaCore\InertiaAspNetCore.csproj", "{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InertiaAspNetCoreTests", "InertiaCoreTests\InertiaAspNetCoreTests.csproj", "{F9083DA4-AC82-478F-8191-694E3811307E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InertiaAspNetCore.Tests", "InertiaCoreTests\InertiaAspNetCore.Tests.csproj", "{F9083DA4-AC82-478F-8191-694E3811307E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,10 +1,10 @@
 using System.Net;
-using InertiaCore.Extensions;
+using InertiaAspNetCore.Extensions;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 using Microsoft.AspNetCore.Mvc.Routing;
 
-namespace InertiaCore.Utils;
+namespace InertiaAspNetCore.Utils;
 
 internal class InertiaActionFilter : IActionFilter
 {

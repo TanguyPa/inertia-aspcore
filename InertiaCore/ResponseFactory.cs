@@ -1,15 +1,15 @@
 using System.Net;
 using System.Text.Json;
 using System.Text.Json.Serialization;
-using InertiaCore.Extensions;
-using InertiaCore.Models;
-using InertiaCore.Ssr;
-using InertiaCore.Utils;
+using InertiaAspNetCore.Models;
+using InertiaAspNetCore.Ssr;
+using InertiaAspNetCore.Utils;
+using InertiaAspNetCore.Extensions;
 using Microsoft.AspNetCore.Html;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Options;
 
-namespace InertiaCore;
+namespace InertiaAspNetCore;
 
 internal interface IResponseFactory
 {

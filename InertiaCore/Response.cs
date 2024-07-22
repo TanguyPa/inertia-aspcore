@@ -1,13 +1,13 @@
 using System.Text.Json;
 using System.Text.Json.Serialization;
-using InertiaCore.Extensions;
-using InertiaCore.Models;
-using InertiaCore.Utils;
+using InertiaAspNetCore.Extensions;
+using InertiaAspNetCore.Models;
+using InertiaAspNetCore.Utils;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 using Microsoft.AspNetCore.Mvc.ViewFeatures;
 
-namespace InertiaCore;
+namespace InertiaAspNetCore;
 
 public class Response : IActionResult
 {

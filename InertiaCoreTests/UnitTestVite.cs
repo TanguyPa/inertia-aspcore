@@ -1,12 +1,12 @@
 using System.IO.Abstractions.TestingHelpers;
-using InertiaCore.Extensions;
-using InertiaCore.Models;
-using InertiaCore.Utils;
+using InertiaAspNetCore.Extensions;
+using InertiaAspNetCore.Models;
+using InertiaAspNetCore.Utils;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.Options;
 using Moq;
 
-namespace InertiaCoreTests;
+namespace InertiaAspNetCore.Tests;
 
 public partial class Tests
 {

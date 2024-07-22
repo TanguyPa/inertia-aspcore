@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Http.Extensions;
 using Microsoft.AspNetCore.Mvc;
 
-namespace InertiaCore.Extensions;
+namespace InertiaAspNetCore.Extensions;
 
 internal static class InertiaExtensions
 {

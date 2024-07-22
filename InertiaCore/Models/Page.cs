@@ -1,4 +1,4 @@
-namespace InertiaCore.Models;
+namespace InertiaAspNetCore.Models;
 
 internal class Page
 {

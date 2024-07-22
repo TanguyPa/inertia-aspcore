@@ -1,15 +1,16 @@
 using System.IO.Abstractions;
 using System.Net;
-using InertiaCore.Models;
-using InertiaCore.Ssr;
-using InertiaCore.Utils;
+using InertiaAspNetCore;
+using InertiaAspNetCore.Models;
+using InertiaAspNetCore.Ssr;
+using InertiaAspNetCore.Utils;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ViewFeatures;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace InertiaCore.Extensions;
+namespace InertiaAspNetCore.Extensions;
 
 public static class Configure
 {

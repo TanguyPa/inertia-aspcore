@@ -1,7 +1,8 @@
-using InertiaCore.Models;
-using InertiaCore.Utils;
+using InertiaAspNetCore.Models;
+using InertiaAspNetCore.Utils;
 
-namespace InertiaCoreTests;
+namespace InertiaAspNetCore.Tests;
+
 
 public partial class Tests
 {

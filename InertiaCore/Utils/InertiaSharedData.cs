@@ -1,6 +1,6 @@
-using InertiaCore.Extensions;
+using InertiaAspNetCore.Extensions;
 
-namespace InertiaCore.Utils;
+namespace InertiaAspNetCore.Utils;
 
 internal class InertiaSharedData
 {

@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Html;
 
-namespace InertiaCore.Ssr;
+namespace InertiaAspNetCore.Ssr;
 
 internal class SsrResponse
 {

@@ -4,10 +4,11 @@ using Microsoft.AspNetCore.Html;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Text.RegularExpressions;
 using System.IO.Abstractions;
-using InertiaCore.Models;
 using Microsoft.Extensions.Options;
 
-namespace InertiaCore.Utils;
+using InertiaAspNetCore.Models;
+
+namespace InertiaAspNetCore.Utils;
 
 public interface IViteBuilder
 {
