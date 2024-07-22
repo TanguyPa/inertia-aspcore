@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Version>0.0.8</Version>
+        <TargetFrameworks>net6.0;net7.0;net8.0</TargetFrameworks>
+        <PackageId>AspNetCore.InertiaCore</PackageId>
+        <Authors>TanguyPa</Authors>
+        <Description>Inertia.js ASP.NET Adapter. https://inertiajs.com/</Description>
+        <PackageProjectUrl>https://github.com/TanguyPa/inertia-asp-core</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/TanguyPa/inertia-asp-core</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageLicenseFile>LICENSE</PackageLicenseFile>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <PackageTags>Inertia,Inertiajs,ASPNET,Vue,React,Svelte</PackageTags>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <FrameworkReference Include="Microsoft.AspNetCore.App" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="System.IO.Abstractions" Version="21.0.26" />
+        <PackageReference Include="TypeMerger" Version="2.1.4" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <None Include="../README.md" Pack="true" PackagePath="" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <InternalsVisibleTo Include="DynamicProxyGenAssembly2" />
+    </ItemGroup>
+</Project>
