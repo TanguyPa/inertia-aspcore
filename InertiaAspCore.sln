@@ -7,6 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InertiaAspNetCore", "Inerti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InertiaAspNetCore.Tests", "InertiaCoreTests\InertiaAspNetCore.Tests.csproj", "{F9083DA4-AC82-478F-8191-694E3811307E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{74B4FDB4-EF3E-446C-9C7B-025A389E6372}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "examples", "examples", "{0A5B960B-1A8F-48AD-BF28-B76511FE0B2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InertiaAspNetCore.MVC.React", "InertiaAspNetCore.MVC.React\InertiaAspNetCore.MVC.React.csproj", "{E436FDC7-16FA-49D9-9885-5DBF520C91CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,9 +27,18 @@ Global
 		{F9083DA4-AC82-478F-8191-694E3811307E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9083DA4-AC82-478F-8191-694E3811307E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9083DA4-AC82-478F-8191-694E3811307E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E436FDC7-16FA-49D9-9885-5DBF520C91CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E436FDC7-16FA-49D9-9885-5DBF520C91CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E436FDC7-16FA-49D9-9885-5DBF520C91CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E436FDC7-16FA-49D9-9885-5DBF520C91CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26} = {74B4FDB4-EF3E-446C-9C7B-025A389E6372}
+		{F9083DA4-AC82-478F-8191-694E3811307E} = {74B4FDB4-EF3E-446C-9C7B-025A389E6372}
+		{E436FDC7-16FA-49D9-9885-5DBF520C91CA} = {0A5B960B-1A8F-48AD-BF28-B76511FE0B2C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B0B2C79C-1EF2-4EF5-8226-66F09A242B93}
