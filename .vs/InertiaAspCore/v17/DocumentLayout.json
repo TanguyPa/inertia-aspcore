@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|c:\\users\\tanguy\\source\\repos\\inertia-aspcore\\inertiacore\\utils\\locationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|solutionrelative:inertiacore\\utils\\locationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|c:\\users\\tanguy\\source\\repos\\inertia-aspcore\\inertiacore\\utils\\lazyprop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|solutionrelative:inertiacore\\utils\\lazyprop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|c:\\users\\tanguy\\source\\repos\\inertia-aspcore\\inertiacore\\models\\inertiaoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|solutionrelative:inertiacore\\models\\inertiaoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|c:\\users\\tanguy\\source\\repos\\inertia-aspcore\\inertiacore\\models\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|solutionrelative:inertiacore\\models\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|c:\\users\\tanguy\\source\\repos\\inertia-aspcore\\inertiacore\\ssr\\gateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|solutionrelative:inertiacore\\ssr\\gateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F9083DA4-AC82-478F-8191-694E3811307E}|InertiaCoreTests\\InertiaAspNetCore.Tests.csproj|c:\\users\\tanguy\\source\\repos\\inertia-aspcore\\inertiacoretests\\unittestresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9083DA4-AC82-478F-8191-694E3811307E}|InertiaCoreTests\\InertiaAspNetCore.Tests.csproj|solutionrelative:inertiacoretests\\unittestresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|solutionrelative:inertiacore\\utils\\vite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|c:\\users\\tanguy\\source\\repos\\inertia-aspcore\\inertiacore\\utils\\locationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|solutionrelative:inertiacore\\utils\\locationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|c:\\users\\tanguy\\source\\repos\\inertia-aspcore\\inertiacore\\utils\\inertiaactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|solutionrelative:inertiacore\\utils\\inertiaactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -55,24 +71,12 @@
       "RelativeMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|solutionrelative:inertiacore\\utils\\inertiashareddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|c:\\users\\tanguy\\source\\repos\\inertia-aspcore\\inertiacore\\ssr\\gateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|solutionrelative:inertiacore\\ssr\\gateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|c:\\users\\tanguy\\source\\repos\\inertia-aspcore\\inertiacore\\ssr\\ssrresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|solutionrelative:inertiacore\\ssr\\ssrresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|c:\\users\\tanguy\\source\\repos\\inertia-aspcore\\inertiacore\\models\\viteoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|solutionrelative:inertiacore\\models\\viteoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|c:\\users\\tanguy\\source\\repos\\inertia-aspcore\\inertiacore\\models\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|solutionrelative:inertiacore\\models\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|c:\\users\\tanguy\\source\\repos\\inertia-aspcore\\inertiacore\\models\\inertiaoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|solutionrelative:inertiacore\\models\\inertiaoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7957EFC-8B8D-4E9B-8C6E-2C7542B3FB26}|InertiaCore\\InertiaAspNetCore.csproj|c:\\users\\tanguy\\source\\repos\\inertia-aspcore\\inertiacore\\extensions\\inertiaextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,59 +102,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Usings.cs",
-              "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCoreTests\\Usings.cs",
-              "RelativeDocumentMoniker": "InertiaCoreTests\\Usings.cs",
-              "ToolTip": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCoreTests\\Usings.cs",
-              "RelativeToolTip": "InertiaCoreTests\\Usings.cs",
+              "DocumentIndex": 1,
+              "Title": "LazyProp.cs",
+              "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\Utils\\LazyProp.cs",
+              "RelativeDocumentMoniker": "InertiaCore\\Utils\\LazyProp.cs",
+              "ToolTip": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\Utils\\LazyProp.cs",
+              "RelativeToolTip": "InertiaCore\\Utils\\LazyProp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T15:54:38.532Z"
+              "WhenOpened": "2024-07-22T16:02:46.178Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UnitTestModelState.cs",
-              "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCoreTests\\UnitTestModelState.cs",
-              "RelativeDocumentMoniker": "InertiaCoreTests\\UnitTestModelState.cs",
-              "ToolTip": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCoreTests\\UnitTestModelState.cs",
-              "RelativeToolTip": "InertiaCoreTests\\UnitTestModelState.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T15:51:42.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UnitTestSharedData.cs",
-              "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCoreTests\\UnitTestSharedData.cs",
-              "RelativeDocumentMoniker": "InertiaCoreTests\\UnitTestSharedData.cs",
-              "ToolTip": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCoreTests\\UnitTestSharedData.cs",
-              "RelativeToolTip": "InertiaCoreTests\\UnitTestSharedData.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T15:43:27.221Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UnitTestHtml.cs",
-              "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCoreTests\\UnitTestHtml.cs",
-              "RelativeDocumentMoniker": "InertiaCoreTests\\UnitTestHtml.cs",
-              "ToolTip": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCoreTests\\UnitTestHtml.cs",
-              "RelativeToolTip": "InertiaCoreTests\\UnitTestHtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T15:42:22.315Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "UnitTestLazyData.cs",
               "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCoreTests\\UnitTestLazyData.cs",
               "RelativeDocumentMoniker": "InertiaCoreTests\\UnitTestLazyData.cs",
@@ -162,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "UnitTestPartialData.cs",
               "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCoreTests\\UnitTestPartialData.cs",
               "RelativeDocumentMoniker": "InertiaCoreTests\\UnitTestPartialData.cs",
@@ -174,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "UnitTestResult.cs",
               "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCoreTests\\UnitTestResult.cs",
               "RelativeDocumentMoniker": "InertiaCoreTests\\UnitTestResult.cs",
@@ -187,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "UnitTestVite.cs",
               "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCoreTests\\UnitTestVite.cs",
               "RelativeDocumentMoniker": "InertiaCoreTests\\UnitTestVite.cs",
@@ -199,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Setup.cs",
               "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCoreTests\\Setup.cs",
               "RelativeDocumentMoniker": "InertiaCoreTests\\Setup.cs",
@@ -211,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "UnitTestConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCoreTests\\UnitTestConfiguration.cs",
               "RelativeDocumentMoniker": "InertiaCoreTests\\UnitTestConfiguration.cs",
@@ -223,19 +192,107 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
+              "Title": "Gateway.cs",
+              "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\Ssr\\Gateway.cs",
+              "RelativeDocumentMoniker": "InertiaCore\\Ssr\\Gateway.cs",
+              "ToolTip": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\Ssr\\Gateway.cs",
+              "RelativeToolTip": "InertiaCore\\Ssr\\Gateway.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:44:18.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page.cs",
+              "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\Models\\Page.cs",
+              "RelativeDocumentMoniker": "InertiaCore\\Models\\Page.cs",
+              "ToolTip": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\Models\\Page.cs",
+              "RelativeToolTip": "InertiaCore\\Models\\Page.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:44:15.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InertiaOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\Models\\InertiaOptions.cs",
+              "RelativeDocumentMoniker": "InertiaCore\\Models\\InertiaOptions.cs",
+              "ToolTip": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\Models\\InertiaOptions.cs",
+              "RelativeToolTip": "InertiaCore\\Models\\InertiaOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:44:15.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "LocationResult.cs",
               "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\Utils\\LocationResult.cs",
               "RelativeDocumentMoniker": "InertiaCore\\Utils\\LocationResult.cs",
               "ToolTip": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\Utils\\LocationResult.cs",
               "RelativeToolTip": "InertiaCore\\Utils\\LocationResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T15:50:29.975Z"
+              "WhenOpened": "2024-07-22T15:50:29.975Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
+              "Title": "UnitTestHtml.cs",
+              "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCoreTests\\UnitTestHtml.cs",
+              "RelativeDocumentMoniker": "InertiaCoreTests\\UnitTestHtml.cs",
+              "ToolTip": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCoreTests\\UnitTestHtml.cs",
+              "RelativeToolTip": "InertiaCoreTests\\UnitTestHtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:42:22.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTestSharedData.cs",
+              "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCoreTests\\UnitTestSharedData.cs",
+              "RelativeDocumentMoniker": "InertiaCoreTests\\UnitTestSharedData.cs",
+              "ToolTip": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCoreTests\\UnitTestSharedData.cs",
+              "RelativeToolTip": "InertiaCoreTests\\UnitTestSharedData.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:43:27.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitTestModelState.cs",
+              "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCoreTests\\UnitTestModelState.cs",
+              "RelativeDocumentMoniker": "InertiaCoreTests\\UnitTestModelState.cs",
+              "ToolTip": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCoreTests\\UnitTestModelState.cs",
+              "RelativeToolTip": "InertiaCoreTests\\UnitTestModelState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:51:42.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCoreTests\\Usings.cs",
+              "RelativeDocumentMoniker": "InertiaCoreTests\\Usings.cs",
+              "ToolTip": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCoreTests\\Usings.cs",
+              "RelativeToolTip": "InertiaCoreTests\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:54:38.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "InertiaActionFilter.cs",
               "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\Utils\\InertiaActionFilter.cs",
               "RelativeDocumentMoniker": "InertiaCore\\Utils\\InertiaActionFilter.cs",
@@ -247,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "InertiaSharedData.cs",
               "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\Utils\\InertiaSharedData.cs",
               "RelativeDocumentMoniker": "InertiaCore\\Utils\\InertiaSharedData.cs",
@@ -259,19 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Gateway.cs",
-              "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\Ssr\\Gateway.cs",
-              "RelativeDocumentMoniker": "InertiaCore\\Ssr\\Gateway.cs",
-              "ToolTip": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\Ssr\\Gateway.cs",
-              "RelativeToolTip": "InertiaCore\\Ssr\\Gateway.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T15:44:18.393Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "SsrResponse.cs",
               "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\Ssr\\SsrResponse.cs",
               "RelativeDocumentMoniker": "InertiaCore\\Ssr\\SsrResponse.cs",
@@ -283,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "ViteOptions.cs",
               "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\Models\\ViteOptions.cs",
               "RelativeDocumentMoniker": "InertiaCore\\Models\\ViteOptions.cs",
@@ -295,31 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Page.cs",
-              "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\Models\\Page.cs",
-              "RelativeDocumentMoniker": "InertiaCore\\Models\\Page.cs",
-              "ToolTip": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\Models\\Page.cs",
-              "RelativeToolTip": "InertiaCore\\Models\\Page.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T15:44:15.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "InertiaOptions.cs",
-              "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\Models\\InertiaOptions.cs",
-              "RelativeDocumentMoniker": "InertiaCore\\Models\\InertiaOptions.cs",
-              "ToolTip": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\Models\\InertiaOptions.cs",
-              "RelativeToolTip": "InertiaCore\\Models\\InertiaOptions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T15:44:15.943Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "InertiaExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\Extensions\\InertiaExtensions.cs",
               "RelativeDocumentMoniker": "InertiaCore\\Extensions\\InertiaExtensions.cs",
@@ -331,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Vite.cs",
               "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\Utils\\Vite.cs",
               "RelativeDocumentMoniker": "InertiaCore\\Utils\\Vite.cs",
@@ -343,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ResponseFactory.cs",
               "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\ResponseFactory.cs",
               "RelativeDocumentMoniker": "InertiaCore\\ResponseFactory.cs",
@@ -355,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Response.cs",
               "DocumentMoniker": "C:\\Users\\Tanguy\\source\\repos\\inertia-aspcore\\InertiaCore\\Response.cs",
               "RelativeDocumentMoniker": "InertiaCore\\Response.cs",
